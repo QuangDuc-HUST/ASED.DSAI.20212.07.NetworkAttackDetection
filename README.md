@@ -1,5 +1,5 @@
 # Group 07 - Applied Statistics and Experimental Design 2021-2 DS-AI K65 
-# **Network Attack Detections**
+# **Network Attack Detection**
 ---
 ## The dataset :  [KDD-Cup 1999](http://kdd.ics.uci.edu/)
 
